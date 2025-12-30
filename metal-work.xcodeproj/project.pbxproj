@@ -28,6 +28,11 @@
 			path = "metal-work";
 			sourceTree = "<group>";
 		};
+		19217A9C2F048609004D233F /* metal-cpp */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "metal-cpp";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +50,7 @@
 			isa = PBXGroup;
 			children = (
 				192179732F04859A004D233F /* metal-work */,
+				19217A9C2F048609004D233F /* metal-cpp */,
 				192179722F04859A004D233F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,6 +80,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				192179732F04859A004D233F /* metal-work */,
+				19217A9C2F048609004D233F /* metal-cpp */,
 			);
 			name = "metal-work";
 			packageProductDependencies = (
